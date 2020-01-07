@@ -20,4 +20,3 @@ Resultado:
 
 Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
-“Não espere resultados brilhantes se suas metas não forem claras”!
